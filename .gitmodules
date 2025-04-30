@@ -1,0 +1,6 @@
+[submodule "ankiApp~"]
+	path = ankiApp~
+	url = https://github.com/QwinTupL3T/ankiApp.git
+[submodule "api~"]
+	path = api~
+	url = https://github.com/QwinTupL3T/api.git
