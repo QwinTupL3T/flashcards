@@ -118,10 +118,6 @@ Then use Expo Go on your mobile device or an emulator to run the application.
 - Offline mode
 - Web version
 
-## License
-
-MIT
-
 ## Credits
 
 This project was built as part of the nFactorial programming course.
